@@ -1,0 +1,6 @@
+{
+  "name": "Curvify",
+  "description": "Smart Analytics for Smarter Academics - Institutional grading intelligence console for BITS Pilani Digital instructors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
